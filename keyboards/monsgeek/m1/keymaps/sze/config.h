@@ -5,3 +5,6 @@
 #define ENABLE_RGB_MATRIX_GRADIENT_LEFT_RIGHT
 #define ENABLE_RGB_MATRIX_TYPING_HEATMAP
 #define ENABLE_RGB_MATRIX_SOLID_REACTIVE
+
+// 5 is default, but causes chatter
+#define DEBOUNCE 10
